@@ -1,0 +1,15 @@
+.Box{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 40px;
+
+}
+p{
+    margin: 0px 0.5rem 0px 0px;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: rgba(58, 53, 65, 0.6);
+}
